@@ -1,2 +1,2 @@
 # Testing_iPhoneApp
-iPhone App for students to learn themselves on tests
+iPhone App for students to help them to lern
