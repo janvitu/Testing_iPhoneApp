@@ -1,0 +1,843 @@
+Japonský výraz pro přetížení:
++ muri
+- mura
+- more
+- muda
+
+Japonský výraz pro plýtvání:
+- muri
+- mura
+- moda
++ muda
+
+Japonský výraz pro nerovnoměrnost:
+- maki
++ mura
+- muku
+- muda
+
+Japonský výraz pro neustálé zlepšování:
+- kanban
++ kaizen
+- kushi
+- koban
+
+Japonský výraz pro zkracování kroků:
+- kobalt
+- kaizen
+- kalika
++ kanban
+
+Japonský výraz pro prevenci proti chybám tzv. blbuvzdornost:
+- pakisaki
+- pokebal
++ pokayoke
+- pakioki
+
+V procesním řízení poráží:
++ rychlá ryba pomalou rybu
+- velká ryba malou rybu
+
+V procesním řízení poráží:
++ rychlá ryba pomalou rybu
+- velká ryba malou rybu
+
+Ve funkčním řízení poráží:
+- rychlá ryba pomalou rybu
++ velká ryba malou rybu
+
+Co je řízení pracovní kariéry:
+- zjištění úrovně pracovníkova výkonu a kvality práce
+- vymezení základních cílů, kterých má být dosaženo v oblasti lidských zdrojů z hlediska struktury a kvality
+- dlouhodobě cílevědomé zvyšování výkonu pracovníka a ohodnocení
++ cílevědomé ovlivňování pracovního zařazení zaměstnance od jeho prvního zařazení až po končení jeho aktivity
+
+Technika Start, Stop, Continue se používá na:
+- rozbor rozhodování managementu
+- načasování průběžné kontroly
+- ve strategii pro dosahování osobních cílů
++ poskytnutí zpětné vazby
+
+Jaké jsou přístupy k inovování? Inovace jako:
+- Analýza dopadu realizované inovace a návrh zlepšení
+- Výsledek náhody, výstup dotačních programů
++ Výsledek vědeckého výzkumu, odpověď na potřebu zákazníků
+- výsledek politiky státu, výsledek náhody
+
+Radikální inovace je:
+- Inovace s drobným dopadem
+- Nástroj pro hodnocení inovací
+- Šest módů přemýšlení nad vybraným problémem, které jsou doplněny barevnou sekvencí
++ revoluční inovace, často reakce na intelektuální krizi
+
+Inkrementální inovace je:
++ Inovace s drobným dopadem
+- Nástroj pro hodnocení inovací
+- Šest módů přemýšlení nad vybraným problémem, které jsou doplněny barevnou sekvencí
+- revoluční inovace, často reakce na intelektuální krizi
+
+Úrovně řízení jsou:
+- horizontální a vertikální
+- externí a interní
++ strategická, taktická, operativní
+- absolutní, relativní, mixovaná
+
+Co si myslíte o Neli:
+- bude opakovat management
+- Kazachstán je mocná země
+- používá Excel v ruštině
++ ukaž kozy
+
+Cíl je:
++ Konečný stav, ke kterému směřují všechny plánované aktivity
+
+Plán je:
++ Vymezení aktivit k dosažení cíl
+
+Plánování je:
++ Manažerská aktivita zaměřená na budoucí vývoj organizace k dosažení cíle. Co se MÁ STÁT nikoli reakce na to CO SE STANE
+
+Zdroje podniku mohou být:
++ know-how
++ místní
+- obnovitelné
++ finanční
+ 
+Zdroje podniku mohou být:
++ časové
+- pevné
++ lidské
++ technologické
+
+
+Dlouhodobé/strategické plánování je na:
+- 10 a více let
++ 5 a více let
+- 3 a více let
+- rok a méně
+
+Střednědobé/taktické plánování je na:
++ 1-5 let
+- 2-3 roky
+- méně než rok
+- 3 a více let
+
+Krátkodobé/operativní plánování je na:
+- 1-2 roky
+- 5-6 kvartálů
++ rok a méně
+- 20 měsíců a více
+
+Mezi účely plánování patří:
++ nástroj přímého řízení firmy
++ získání úvěru (podnikatelský plán)
+- dolování data (data-mining)
++ oslovení investora
+
+Jako výkonové ukazatele používáme:
+- CSF
+- SCM
++ KPI
+- BMI
+
+KPI jsou:
+- kritické faktory úspěchu
+- ukazatele unikátní hodnoty
+- matice přiřazení odpovědnosti
++ klíčové ukazetele výkonosti
+
+RACI je matice která slouží k:
++ rozdělení a přiřazení odpovědnosti členům týmu
+- vymezení cíle
+- ukázání cíle firmy zaměstnancům a akcionářům
+- generování alternativy strategií dalšího rozvoje organizace
+
+Význam matice RACI:
++ Responsible, kdo odpovědný za vykonání svěřeného úkolu
++ Accountable, kdo za to co bylo vykonáno
++ Consulted, kdo může poskytnout cenou radu, či konzultaci k úkolu
++ Informed, kdo má být informován o průběhu či rozhodnutích v úkolu
+
+SMART nám říká, že cíl by měl být:
+- Specifický, místně daný, akceptovatelný, rychlý, časově specifický
++ Konkrétní, měřitelný, dosažitelný, realistický, časově specifický
+- Strategický, měřitelný, akceptovatelný, realistický, sledovatelný
+- Strategický, místně daný, dosažitelný, relevantní, sledovatelný
+
+Metoda pro navrhování cílů v řízení a plánování se nazývá:
+- SWOT
+- RACI
+- MBO
++ SMART
+
+K čemu se používá Ganttův diagram:
++ při řízení projektů pro grafické znázornění naplánování posloupnosti činností v čase
+- k vymezení cílů a poslaní organizace
+- k získávání netriviálních skrytých a potenciálně užitečných informací z dat
+- žádná odpověď není správná
+
+Řídit znamená:
+-	vést lidi správným směrem 	
++	dělat věci správně
+-	dělat správné věci
+-	dělat dobré věci
+
+Hodnota informace:
+-	má objektivní charakter 	
++	má subjektivní charakter
+-	má shodnout hodnotu jako data z kterých pochází
+-	má obecně platný charakter
+
+Paretovo pravidlo nám říká:
+- 80 % pracovníků odvede 80 % práce
+- 80 % pracovníků odvede většinu práce
+- 20 % pracovníků je odpovědno za veškerou práci
++ 20 % pracovníků je odvede 80 % práce
+
+Plánování se zaměřuje na:
+-	minulost 	
++	budoucnost
+-	zaměstnance
+-	akcionáře
+
+SWOT analýza zahrnuje analýzu a vyhodnocení:
+- cílů a výsledků organize
+- odbornosti mezi topmanagementem, středním managementem a zaměstnanci
++ silných a slabých prvků organizace, příležitostí a hrozeb
+- řízení ukončených projektů organizace
+
+Behaviorismus se zabývá:
+-	samosprávným řízením 	
+-	podnikovou kulturou
+-	strategickým plánováním
++	lidským chováním
+
+Hlavním cílem HRM v organizaci je:
+- Dosažení podnikových cílů pomocí direktivního ovlivňování
++	Dosažení podnikových cílů pomocí řízení lidských faktorů
+-	Dosažení podnikových cílů pomocí negativní kritiky
+-	Dosažení v bezvadnosti v organizaci
+
+HRM je zkratka pro:
+- řízení řetězce dodávek
+- datové sklady
++ řízení lidských zdrojů
+- marketing a komunikace se zákazníky
+
+Mezi charakteristiky dobře strukturovatelného problému patří:
+-	Obtížná interpretace 	
+-	Je součástí manažerské mřížky
+-	Větší počet ovlivňujících faktorů
++	Jsou programovatelné
+
+Franchizing je:
++	Forma podnikání na základě přijetí práv k užívání značky a know-how
+-	Tržně orientovaný a vnitropodnikový systém
+-	Systém řízení výrobních a podnikových rizik
+-	Systém řízení odbytu a výroby v čase
+
+Kdy použít týmovou chartu:
++ Když dáváme dohromady tým, se kterým chceme pracovat a výrazně uspět.
+- Když v organizaci nevyužíváme týmovou práci.  
+- Pokud se jedná o jednoduchý týmový projekt na několik málo hodin nebo dní.  
+- Pokud se nejedná o pracovní tým, ale spíše pracovní skupinu, kde nedochází ke kolektivní práci a synergickému efektu.
+
+Kdy použít týmovou chartu:
+- Pokud se nejedná o pracovní tým, ale spíše pracovní skupinu, kde nedochází ke kolektivní práci a synergickému efektu.
+- Když v organizaci nevyužíváme týmovou práci.  
++ Když chceme znovu nastartovat nebo zlepšit týmovou práci a chartu doposud nepoužíváme.    
+- Pokud se jedná o jednoduchý týmový projekt na několik málo hodin nebo dní.
+
+Management z v praxi skládá z kombinace:
++ umění
++ vědy
++ dovedností
+- Nelly Kuznetsova
+
+Šest klíčových managerských vlastností:
++ Týmová práce
++ Sebe-řízení
++ Leadership
++ Kritické myšlení 
++ Profesionalita 
++ Komunikace
+
+GPOP je dotazníková metoda, používaná pro porozumění osobnosti v kontextu Jungovské typologie. Vychází z následujících předpokladů:
++ extraverze (E) a introverze (I) – zdroj psychické energie
++ smysly (S) a intuice (N) – způsob vnímání skutečnosti
++ myšlení (T) a cítění (F) – způsob rozhodování
++ orientace na rozhodování (J) a orientace na vnímání (P) – životní styl
++ napětí a uvolnění – forma reagování na stres
+
+Extroverti potřebují:
++ Verbální výměnu názoru a stanovisek (i hlasitou) 
+- Více písemných podkladů, e-mailů 
+- Čas na promyšlení a zvážení věcí 
+- Jednat pokud možno s předem připravenými podklady a programem
+
+Extroverti potřebují:
+- Možnost pracovat samostatně a nezávisle a s ostatními se poradit až nad výsledky 
+- Řešit konflikty či sporné otázky až po zralé úvaze, s odstupem  
++ Mít info o tom, co se kde děje a co různí lidé dělají
+- Příliš neschůzovat ve velké skupině, ale scházet se s jednotlivými členy týmu samostatně podle řešeného úkolu
+
+Introverti potřebují:
+- Řešení konfliktů či sporných otázek tváří v tvář 
++ Nemuset fungovat jako prostředníci s neznámým okolím
+- Možnost setkávat se i s lidmi mimo tým 
+- Možnost „promluvit se“ k závěrům (někdy i klikatou cestičkou
+
+Introverti potřebují:
+- Příležitosti pobavit se i o jiných než čistě pracovních věcech  
+- Osobní setkávání se nad nedořešenými věcmi
+- Oslavu toho, co už se povedlo  
++ Řešit konflikty či sporné otázky až po zralé úvaze, s odstupem 
+
+Deskriptivní teorie rozhodování:
++ Rozhodování podle analýzy již proběhlých procesů
+- Rozhodování podle norem a návodů
+
+Normativní teorie rozhodování:
+- Rozhodování podle analýzy již proběhlých procesů
++ Rozhodování podle norem a návodů
+
+Rozhodovací proces:
++ je proces volby tedy posouzení variant a výběr rozhodnutí tedy nalezení „optimální varianty“ resp. „varianty určené k realizaci“ 
+
+Problém:
++ diference mezi žádoucím a aktuálním stavem 
+
+Prevence:
++ Uvědomění si hrozeb a příležitostí včas
+
+Vrcholné řízení rozhoduje o:
++ Složité nestrukturované problémy za rizika a nejistoty 
+- Strukturované i nestrukturované problémy 
+- Dobře strukturované problém
+
+Střední management rozhoduje o:
+- Složité nestrukturované problémy za rizika a nejistoty 
+- Dobře strukturované problém
++ Strukturované i nestrukturované problémy
+
+Operativní řízení rozhoduje o: 
++ Dobře strukturované problém
+- Složité nestrukturované problémy za rizika a nejistoty
+- Strukturované i nestrukturované problémy
+
+Členění rozhodovacího procesu:
++ Analýza okolí > Návrh variant řešení > Volba řešení > Kontrola výsledků
+
+Čím dříve se objeví a odstraní nedostatek, tím (pravidlo 10ti):
+- vyšší budou ztráty s ním spojené
++ nižší budou ztráty s ním spojené
+
+Za BOZP na pracovišti zodpovídá:
++ vrcholný management
+- pracovník
+- personální oddělení
+- zákazník
+
+Mezi obecné zásady managerské práce patří:
++ priority
++ prevence
++ orientace na zákazníka
++ bezvadnost samozřejmostí
+
+Kdo by měl být nejdůležitější osobou ve firmě:
+- CEO
+- teamleader
++ zákazník
+- akcionář
+
+Do autokrativního managerského stylu neřadíme:
+- direktivní úkolování
+- bez zapojení podřízených
++ obousměrná komunikace
+- bez snahy nastolit důvěru
+
+Do benevolentního managerského stylu neřadíme:
++ direktivní úkolování
+- sice autokrativní, ale snaha o partnerství
+- odměny a tresty
+- důvěra v podřízené
+
+Do konzultativního managerského stylu neřadíme:
+- obousměrná komunikace
+- konzultace s podřízenými, podle čehož nakonec manager rozhodne
+- zejména odměny
++ direktivní úkolování
+
+Do participativního managerského stylu neřadíme:
+- plná důvěra v podřízené
++ bez zpětné vazby
+- realizace na podřízených
+- podřízení zapojování do rozhodování
+
+Byrokratický styl řízení:
++ opírající se o směrnice a nařízení, sledování výsledků, opírání se o autoritu nadřízených
+- dlouhodobé zaměření prostřednictvím cílů, ekonomické pobídky
+- příkazy a jejich bepodmínečné plnění, strohost jednání
+- spolupráce s podřízenými, přirozená autorita, poslední slovo
+
+Autoritativní styl řízení:
+- opírající se o směrnice a nařízení, sledování výsledků, opírání se o autoritu nadřízených
+- dlouhodobé zaměření prostřednictvím cílů, ekonomické pobídky
++ příkazy a jejich bepodmínečné plnění, strohost jednání
+- spolupráce s podřízenými, přirozená autorita, poslední slovo 
+
+Cílové řízení:
+- opírající se o směrnice a nařízení, sledování výsledků, opírání se o autoritu nadřízených
++ dlouhodobé zaměření prostřednictvím cílů, ekonomické pobídky
+- příkazy a jejich bepodmínečné plnění, strohost jednání
+- spolupráce s podřízenými, přirozená autorita, poslední slovo
+
+Demokratický styl řízení:
+- opírající se o směrnice a nařízení, sledování výsledků, opírání se o autoritu nadřízených
+- dlouhodobé zaměření prostřednictvím cílů, ekonomické pobídky
++ spolupráce s podřízenými, přirozená autorita, poslední slovo
+- příkazy a jejich bepodmínečné plnění, strohost jednání
+
+Formální autorita je dána:
+- uznáním schopností, chování
++ postavením v organizaci
+
+Neformální autorita je dána:
++ uznáním schopností, chování
+- postavením v organizaci
+
+Kontrola je:
++ Kritické zhodnocení reality s ohledem na řídící záměry určení zda bylo dosaženo shody reality vůči požadavku
+
+Audit je:
++ Systematické nezávislé a dokumentované zkoumání z hlediska naplňování zákonů, postupů, standardů, hloubkévá kontrola
+
+Controlling je:
++ Zachycení a vyhodnocení informací vzhledem k plánu pro potřeby rozhodování, koordinaci či plánování
+
+Běžná kontrola:
++ statutárními orgány či managementem k dosažení přiměřené jistoty dosažení cílů, bez metodického postupu
+- hloubková kontrola, nestranné ověření určité skutečnosti z hlediska procesů vedoucím k cílům
+- komplexní podchycení všech ekonomických a zejména nákladových událostí
+- zpětná vazba řízení technologických zařízení
+
+Audit:
+- statutárními orgány či managementem k dosažení přiměřené jistoty dosažení cílů, bez metodického postupu
+- komplexní podchycení všech ekonomických a zejména nákladových událostí
++ hloubková kontrola, nestranné ověření určité skutečnosti z hlediska procesů vedoucím k cílům
+- zpětná vazba řízení technologických zařízení 
+
+Controlling:
+- zpětná vazba řízení technologických zařízení
+- statutárními orgány či managementem k dosažení přiměřené jistoty dosažení cílů, bez metodického postupu
++ komplexní podchycení všech ekonomických a zejména nákladových událostí
+- hloubková kontrola, nestranné ověření určité skutečnosti z hlediska procesů vedoucím k cílům
+
+Automatická kontrola
+- statutárními orgány či managementem k dosažení přiměřené jistoty dosažení cílů, bez metodického postupu
+- komplexní podchycení všech ekonomických a zejména nákladových událostí
+- hloubková kontrola, nestranné ověření určité skutečnosti z hlediska procesů vedoucím k cílům
++ zpětná vazba řízení technologických zařízení 
+
+GAP analýza:
++ nástroj, jenž pomáhá manažerům při volbě marketingových strategií
++ vizualizujete graficky
++ analyzuje zjištěné mezery
++ cílem je nalézt nesrovnalosti mezi marketingovými cíli potenciálními a dosaženými
+
+Hodnotící kritéria kontroly:
++ standardy
++ časové srovnání
++ konkureční srovnání
++ správné řídící a provozní praktiky
+
+Co je vize podniku:
+- to jaké má služby/produkty
++ základní směřování
+- konkrétní směřování podniku
+- konkrétní úkol
+
+Co je to poslání:
+- konkrétní směřování podniku
+- základní směřování podniku
++ to jaké přináší produkty/služby a pro koho
+- konkrétní úkoly v podniku
+
+Co jsou to strategické cíle:
+- základní směřování podniku
+- konkrétní úkoly v podniku
++ konkrétní směřování podniku
+- to jaké má služby/produkty
+
+Co jsou to specifické cíle (SMART):
++ konkrétní úkoly
+- konkrétní směřování podniku
+- to jaké má služby/produkty
+- základní směřování podniku
+
+Co jsou to akční plány:
+- konkrétní úkoly
+- to jaké má služby/produkty
++ ukazatele v čase
+- konkrétní směřování
+
+Funkční řízení využívá:
+- dovednosti a znalosti celého procesu
++ omezené dovednosti
+
+Procesní řízení využívá
++ dovednosti a znalosti celého procesu
+- omezené dovednosti
+
+Autonomní kontrola výrobních defektů:
+- džihád
+- džijahanži
++ džidóka
+- dajakami
+
+Místo, kde se vykonává daná činnost nebo proces, který chceme zlepšovat:
++ gemba
+- gembl
+- gaia
+- gulag
+
+Metoda zamezující plýtvání:
+- harakiri
++ heidžunka
+- haidy
+- hokaido
+
+Funkční řízení využívá:
+- Určovat směr, koučovat, plochá OA
++ Přikazování shora dolů
+
+Procesní řízení využívá:
++ Určovat směr, koučovat, plochá OA
+- Přikazování shora dolů
+
+Funkční řízení využívá:
+- Integrace. Operace týmová práce. Integrace zákazníka. Integrace dodavatele.
++ Dělba práce. Úspory z hromadného provádění operací. Člověk byl nalepeno a operace. Neustále řízen a kontrolován.
+
+Procesní řízení využívá:
++ Integrace. Operace týmová práce. Integrace zákazníka. Integrace dodavatele.
+- Dělba práce. Úspory z hromadného provádění operací. Člověk byl nalepeno a operace. Neustále řízen a kontrolován.
+
+Funkční řízení využívá:
++ hromadná výroba, všechno stejné
+- individuální přání zákazníka
+
+Procesní řízení využívá:
+- hromadná výroba, všechno stejné
++ individuální přání zákazníka
+
+Procesní řízení využívá:
++ Horizontální, plochá struktura. Autonomie organizace jednotky. Symfonický orchestra. Jednotka. Jsme každý jiný, takže jsme se dali dohromady.
+- Hierarchie, přikazováni shora dolu, vojenská organizace. Jednotnost, uniforma.
+
+Funkční řízení využívá:
+- Horizontální, plochá struktura. Autonomie organizace jednotky. Symfonický orchestra. Jednotka. Jsme každý jiný, takže jsme se dali dohromady.
++ Hierarchie, přikazováni shora dolu, vojenská organizace. Jednotnost, uniforma.
+
+Procesní řízení využívá:
+- Syntéza a soulad. Málo ambiciózní přístup do budoucnosti.
++ Podniková vize a kultura.
+
+Funkční řízení využívá:
++ Syntéza a soulad. Málo ambiciózní přístup do budoucnosti.
+- Podniková vize a kultura.
+
+Funkční řízení využívá:
++ Kdo měl informace, mohl vládnout.
+- Lidé zapojení do firmy mají svůj vlastní zájem proč tam chtějí být. Zaměstnanec ví všechno o své firmě. Informace jsou dostupné.
+
+Procesní řízení využívá:
+- Kdo měl informace, mohl vládnout.
++ Lidé zapojení do firmy mají svůj vlastní zájem proč tam chtějí být. Zaměstnanec ví všechno o své firmě. Informace jsou dostupné.
+
+Proces je:
++ soubor vzájemně působících činností, který přeměňuje vstupy na výstupy
+
+Balancování linek:
++ Činnost, jejímž cílem je dosáhnout relativně stejných časů cyklu jednotlivých operátorů na lince nebo buňce, resp. minimalizace plýtvání způsobeného čekáním pracovníků z důvodu nevybalancování.
+
+SMED
++ systematický proces pro minimalizaci časů, prostojů, tj. časů čekání (přípravy) kapacitní jednotky mezi opracováním dvou po sobě následujících různých typů výrobků (výrobních dávek).
+
+TPM:
++ je ve výpočetní technice název specifikace, která popisuje zabezpečený kryptoprocesor (šifrovací procesor), na který lze ukládat šifrovací klíče, které chrání informace.
+
+VSM:
++ je jedna z technik štíhlé výroby užívaná k analýze a nastavení toku materiálu a informací
+
+Buzzword:
++ Populární slovo nebo fráze
+
+Dělat správné věci znamená:
++ Nové produkty a služby
+- Standardizace a zlepšování
+
+Dělat věci správně znamená:
+- Nové produkty a služby
++ Standardizace a zlepšování
+
+Invence je:
++ Kreativita, vynalézavost, schopnost tvořivého myšlení 
++ „Cash into Ideas“  
++ Přeměna peněz na myšlenky
++ příkladem vynálezce N. Tesla
+
+Inovace je:
++ Nový nápad uvedený do praxe 
++ „Ideas into Cash“ 
++ Přeměna myšlenek na peníze
++ Příkladem inovátor T. Edison
+
+Knowledge push:
++ Inovace jako výsledek vědeckého výzkumu
++ Výsledkem může být radikální inovace 
+- Inovace jako odpověďna potřebuzákazníků
+- Nejčastěji inkrementální vylepšení produktů.
+
+Need pool:
+- Inovace jako výsledek vědeckého výzkumu
++ Inovace jako odpověďna potřebuzákazníků
+- Výsledkem může být radikální inovace 
++ Nejčastěji inkrementální vylepšení produktů.
+
+SAP:
++ podnikové a manažerské systémy
++ ERP, SCM, CRM
+
+Intrapodnikání: 
++ je využití podnikatelských dovedností a samostatnosti lidí uvnitř velkých organizací a korporací. Jde o využití jejich flexibility, kreativity, samostatnosti a aktivity při řízení a fungování pracovních týmů a inovací.
+
+Smartcasual oblékání:
++ Jde o kombinaci dvou stylů, které jsou se svou podstatou protichůdné. Na jedné straně smart (bystrý, chytrý, elegantní) jakoby naznačoval vyfintěný luxus, tedy něco více formálního než vaše klasické triko a džíny. A proti tomu stojí uvolněné, klidné, jednoduché casual, které může být všechno, jen ne smart.
+
+Mezi charakteristiky řízení podle cílů (MBO) patří:
+- podřízení se k cílům nemohou vyjádřit 	
++ cíle musí být měřitelné
++ autorem je Drucker
++ přijaté cíle musí být jasně vymezeny
+- cíle nemusí být měřitelné
+- autorem je B. Gates
+
+Mezi zásady hodnocení patří:
++	Komplexnost 	
++	Hodnotit pracovní výkon
+-	Hodnotit pracovníkovu osobnost
+-	Zvýraznit pouze negativa
+
+Lean Canvas:
++ statické zachycení vaší představy o svém podnikatelském nápadu. Na jeho základě se dají odhalit největší rizika a ty slouží jako vstupy pro experimenty, tedy testování plánu v realitě.
+
+Lean Canvas obsahuje tyto části:
++ Problém & existující alternativy
++ Řešení
++ Indikátory
++ Struktura nákladů
++ Unikátní nabídka hodnoty & Srozumitelný opis
++ Nefér výhoda
++ Cesty k zákazníkům
++ Zákazníci & první vlaštovky
++ Cenový model
+
+Sekce problém & existující alternativy v Lean Canvasu obsahuje:
++ Jaké jsou 1-3 nejpalčivější problémy vašich zákazníků?
++ Jak zákazníci řeší své problémy dnes?
+ 
+Sekce řešení v LC obsahuje:
++ Jaké vlastnosti vašeho produktu řeší problémy vašich zákazníků?
+
+Sekce indikátory v LC obsahuje:
++ Co pro vás znamená úspěch a jak jej budete měřit? Jaká další čísla jsou pro vás teď důležitá (akvizice, aktivace, loajalita, tržby, doporučení)?
+
+Sekce struktura nákladů v LC obsahuje:
++ Za co budete platit a kolik? Jaké jsou vaše fixní a variabilní náklady?
+ 
+Variabilní náklady nejsou:
+- náklady jejichž objem roste spolu s objemem výroby
++ jejichž objem není přímo závislý na objemu výroby.
+- něco, co se neoddělitelně váže s každým vyrobeným zbožím (nebo poskytnutou službou)
+- materiálové náklady, úseky, které bezprostředně souvisejí s výrobou (např. kontrola kvality, distribuce), mzdové náklady zaměstnanců 
+
+Fixní náklady nejsou:
+- pronájmy výrobních prostor, investice do strojů, zřízení telefonní linky, poskytování nějaké disponibilní služby (např. konzultace, poradenství)
+- jejichž objem není přímo závislý na objemu výroby.
++ to, co by se nějak neoddělitelně vázalo s každým jednotlivým vyrobeným zbožím (nebo poskytnutou službou)
++ materiálové náklady, úseky, které bezprostředně souvisejí s výrobou (např. kontrola kvality, distribuce), mzdové náklady zaměstnanců 
+
+Unikum a srozumitelný opis v LC zahrnuje:
++ Čím upoutáte pozornost? V čem jste jiní? Jaká je výsledná hodnota pro zákazníka?
++ Jak jednoduše opíšete vaše řešení pomocí již existujících? 
+
+Sekce cenový model v LC zahrnuje:
++ Jak naceníte vaše řešení problému?
+
+Nefér výhoda v LC zahrnuje:
++ Co vám nemůže nikdo snadno zkopírovat nebo si to koupit? Proč byste to měli dělat zrovna vy? 
+
+Cesty k zákazníkům zahrnují:
++ Jak se dostanete ke svým zákazníkům?
+
+Sekce zákazníci a první vlaštovky v LC zahrnuje:
++ Kdo jsou vaši zákazníci, resp. uživatelé?
++ S kým můžete začít nejdříve?
+
+Co nepatří mezi nonverbální komunikaci:
+- haptika (dotyk)
+- mimika
++ rétorika
+- oční kontakt (vizitka)
+
+Co nepatří mezi nonverbální komunikaci:
++ délka vět
+- proxemika (vzdálenost)
+- posturika (postoj)
+- gestikulace
+
+Prototyp je:
++ pokusný první výrobek nebo vůbec příkladný exemplář nějaké třídy věcí
+- umožňuje vyhnout se drahému vytváření a uvolňování zdrojů recyklováním objektů, které už se nepoužívají
+
+Robotizace:
++ automatizace některých procesů stroji, lidi mohou být využiti na důležitější práci, kterou stroj nemůže zastávat
+
+Americký proud managementu byl zaměřen na výkonu a produktivity pomocí:
+-	Zavedení samosprávy dílen 	
+-	Prodlužování pracovní doby
++	Zvyšování pracovní disciplíny
++	Zavedení pořádku v časových rozvrzích
++	Tlak na ekonomii výrobních operací
+
+Pro srozumitelnost ústní komunikace je dobré:
++	přehlednost 	
++	výstižnost
++	krátké věty
++	podnětnost
+- Nelly
+
+Mezi přístupy klasického období managementu patří:
+-	Kontingenční přístupy 	
+-	Management znalostí
+-	Principy 7S
++	Byrokratický management
+
+Etiketa předpokládá existenci určité hierarchie a:
+-	přímého postavení ve společnosti 	
++	nerovného postavení ve společnosti
+-	rovného postavení ve společnosti
+-	postavení podle funkce
+-	vybraného postavení ve společnosti
+
+Kontrola nemá následující funkce:
+-	eliminační 	
+-	inspekční
+-	preventivní
++	sankční
+
+Mezi tzv. Simonův přístup řadíme:	
+-	identifikaci problému
+-	určení stanovisek
++	analýza okolí
++	návrh řešení
+
+Manažerské dovednosti nejsou:	
+-	technické
+-	lidské
++	firemní
+-	koncepční
+
+Současná doba klade požadavek, aby řízení lidských zdrojů bylo v souladu s:
++	strategií organizace 	
+-	potřebou pracovních sil
+-	kulturou organizace
+-	finančními možnostmi organizace
+
+Za soudobé vlastnosti manažera považujeme:
++	charismatický vůdce 	
++	být dobrým motivátorem
++	schopnost dělat týmovou práci
++	podnikatelské vize
++	optimalizace zdrojů
+
+Procesní řízení:
++ je takový způsob řízení procesů v organizaci, který zdůrazňuje opakované procesy a jejich průběh napříč celou organizací
++ BMP
+
+Řízení podle cílů
++ MBO
++ je metoda řízení lidí založená na stanovení a vzájemném odsouhlasení cílů a vyhodnocování úspěšnosti jejich dosahování
+
+KPI strategie měříme:
++ ze shora dolů
+- ze zdola nahoru
+
+KPI výsledků procesů:
+- ze shora dolů
++ ze zdola nahoru
+
+KPI:
++ Čas: Jak dlouho to trvá?
++ Náklady: Používáme naše zdroje efektivně?
++ Kvalita: Odpovídá výsledek požadavkům?
++ Služba zákazníkům: Plníme a překonáváme očekávání našich zákazníků?
++ Růst: Zvyšuje se naše tempo růstu nebo náš podíl na trhu?
++ Finance: Rostou naše tržby i zisk? ROI
+
+BSC:
++ systém vyvážených ukazatelů výkonnosti podniku, je metoda v managementu, která vytváří vazbu mezi strategií a operativními činnostmi s důrazem na měření výkonu.  
+
+Vnitřní podmínky organizace nazývané jako tvrdé prvky jsou:
++ hmotné, hmatatelné, prezentovatelné entity, vyrobky, služby, tech. vybavení, logistika, zásoby, finance, organizační struktury, distribuční kanály, data...
+- nehmatatelné akty, ke kterým dochází při jednání, chování, vystupování lidí uvnitř organizace i vně, jednání s obch. partnery, reakce jednotlivců...
+
+Vnitřní podmínky organizace nazývané jako měkké prvky jsou:
++ nehmatatelné akty, ke kterým dochází při jednání, chování, vystupování lidí uvnitř organizace i vně, jednání s obch. partnery, reakce jednotlivců...
+- hmotné, hmatatelné, prezentovatelné entity, vyrobky, služby, tech. vybavení, logistika, zásoby, finance, organizační struktury, distribuční kanály, data...
+
+Vnější podmínky organizace:
++ politické
++ ekonomické
++ sociální
++ technické
+
+Co nepatří do sebeřízení:
+- sebepoznání
+- seberozvoj
++ sebeukájení
+- sebehodnocení
+
+Souhrn pravidel chování využívaného v elektronické komunikaci se nazývá:
++ netiketa
+- intertiketa
+- wwwtiketa
+- e_tiketa
+
+Co neovlivňuje rozhodovací proces:
+- manager
++ rozhodnutí
+- rozhodovací problémy
+- podmínky pro rozhodování
+
+Na které dvě otázky by měl každý plán odpovídat:
++ Co?
+- Kde?
++ Jak?
+- Proč?
+
+Bořič mýtů v managementu je:
+- H. Ford
++ H. Mintzberg
+- T. Baťa
+- F. Taylor
+
+Představitel klasického managementu:
+- H. Mintzberg
+- Druckner
++ F. Taylor
+- D. Trump
+
+
+
